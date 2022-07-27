@@ -1,4 +1,6 @@
 {
+  "prfile":
+  {
   "id": 142,
   "firstName": "Alice",
   "lastName": "Smith",
@@ -6,4 +8,15 @@
   "dateOfBirth": "1997-10-31",
   "emailVerified": true,
   "signUpDate": "2019-08-24"
+},
+"posts":[
+  {
+    "id":1,
+    "text":"qqqq"
+  },
+  {
+    "id":2,
+    "text":"AAA"
+  },
+  ]
 }
