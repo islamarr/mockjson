@@ -1,20 +1,21 @@
 {
-  "prfile":
+  "profile":
   {
-  "id": 142,
-  "firstName": "Alice",
-  "lastName": "Smith",
-  "email": "alice.smith@gmail.com",
-  "dateOfBirth": "1997-10-31",
-},
-"posts":[
-  {
-    "id":1,
-    "text":"qqqq"
+    "id": 142,
+    "firstName": "Alice",
+    "lastName": "Smith",
+    "email": "alice.smith@gmail.com",
+    "dateOfBirth": "1997-10-31"
   },
-  {
-    "id":2,
-    "text":"AAA"
-  },
+  "posts":
+  [
+    {
+      "id":1,
+      "text":"qqqq"
+    },
+    {
+      "id":2,
+      "text":"AAA"
+    }
   ]
 }
